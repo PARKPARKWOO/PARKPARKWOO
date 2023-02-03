@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 ![python](https://img.shields.io/badge/-Python3-blue)
 ![java](https://img.shields.io/badge/-java-lightgrey)
-![HTML]<span class="badge text-bg-success">Django</span>
