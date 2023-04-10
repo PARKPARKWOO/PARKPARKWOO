@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 ![python](https://img.shields.io/badge/-Python3-blue)
 ![java](https://img.shields.io/badge/-java-lightgrey)
 
-[![bsaAction](https://github.com/PARKPARKWOO/test/actions/workflows/test.yml/badge.svg)](https://github.com/PARKPARKWOO/test/actions/workflows/test.yml)
