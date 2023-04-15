@@ -40,8 +40,5 @@ Here are some ideas to get you started:
 <p></p>
 <h4> Baeker Project Status </h4>
 
-
----
-
 [![ciTests](https://github.com/PARKPARKWOO/Baeker/actions/workflows/ciTests.yml/badge.svg)](https://github.com/PARKPARKWOO/Baeker/actions/workflows/ciTests.yml)
 
