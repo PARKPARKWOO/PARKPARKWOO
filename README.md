@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 ![python](https://img.shields.io/badge/-Python3-blue)
 ![java](https://img.shields.io/badge/-java-lightgrey)
 
+Baeker Project Status
 [![ciTests](https://github.com/PARKPARKWOO/Baeker/actions/workflows/ciTests.yml/badge.svg)](https://github.com/PARKPARKWOO/Baeker/actions/workflows/ciTests.yml)
 
