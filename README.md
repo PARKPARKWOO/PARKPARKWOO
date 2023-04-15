@@ -33,6 +33,15 @@ Here are some ideas to get you started:
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-Baeker Project Status
+<h2>Project Status</h2>
+
+---
+
+<p></p>
+<h4> Baeker Project Status </h4>
+
+
+---
+
 [![ciTests](https://github.com/PARKPARKWOO/Baeker/actions/workflows/ciTests.yml/badge.svg)](https://github.com/PARKPARKWOO/Baeker/actions/workflows/ciTests.yml)
 
