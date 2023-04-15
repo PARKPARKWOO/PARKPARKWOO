@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h2>Skills</h2>
 
----
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -43,7 +42,6 @@ Here are some ideas to get you started:
 
 <h2>Project Status</h2>
 
----
 
 <p></p>
 <h4> Baeker Project Status </h4>
@@ -53,7 +51,6 @@ Here are some ideas to get you started:
 <p></p>
 <h4> BSA Project Status <h4>
   
- ---
   
 [![bsaAction](https://github.com/choideakook/BaekJoon_Supporter/actions/workflows/action.yml/badge.svg)](https://github.com/choideakook/BaekJoon_Supporter/actions/workflows/action.yml)
 
