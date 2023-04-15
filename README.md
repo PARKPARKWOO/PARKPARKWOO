@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<h2> BOJ Tier</h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wy9295)](https://solved.ac/백준아이디/)
+
+
+
+
+
 <h2>Project Status</h2>
 
 ---
@@ -44,5 +52,8 @@ Here are some ideas to get you started:
 
 <p></p>
 <h4> BSA Project Status <h4>
+  
+ ---
+  
 [![bsaAction](https://github.com/choideakook/BaekJoon_Supporter/actions/workflows/action.yml/badge.svg)](https://github.com/choideakook/BaekJoon_Supporter/actions/workflows/action.yml)
 
