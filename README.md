@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ---
   
-<h2> BOJ Tier</h2>
+<h2> BOJ </h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wy9295)](https://solved.ac/wy9295/)
 
