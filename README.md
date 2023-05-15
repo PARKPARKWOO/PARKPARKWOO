@@ -23,7 +23,6 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
----
  
 <h3 align="center">CI/CD Tool & Software Configuration Management & Version Control</h3>
 <p align="center">
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/></a>
 </p>
 
----
+
 
 <h3 align="center">Deploy</h3>
 <p align="center">
@@ -41,7 +40,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
 </p>
 
----
 
 <h3 align="center">ETC</h3>
 <p align="center"> 
