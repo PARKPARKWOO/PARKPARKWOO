@@ -47,22 +47,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
 </p>
-
----
-
-<h3 align="center">Resume & CV</h3>
-
-<p align="center">
-  
-   <a href="https://www.notion.so/b85554687c44436f936c790e133d3fa9">
-       <img class="img-concert" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-   </a>
-    <a href="https://velog.io/@wy9295">
-       <img class="img-concert" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-   </a>
-  
-</p>
-
 ---
   
 <h2> BOJ </h2>
