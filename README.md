@@ -24,8 +24,14 @@ Here are some ideas to get you started:
 <h3 align="center">Studying now</h3>
 <p align="center">
 - Webflux
+</p>
+<p align="center">
 - RSocket
+</p>
+<p align="center">
 - MongoDB
+</p>
+<p align="center">
 - Hexagonal
 </p>
 
