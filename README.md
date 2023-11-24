@@ -22,20 +22,6 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
-<h3 align="center">Studying now</h3>
-<p align="center">
-- Webflux
-</p>
-<p align="center">
-- RSocket
-</p>
-<p align="center">
-- MongoDB
-</p>
-<p align="center">
-- Hexagonal
-</p>
-
 ---
   
 <h2> BOJ </h2>
