@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 - Klleon Backend 23.11.06 ~ 
 
 ---
-### Education
+### 👨‍🏫 Education
 - SSAFY (전공 Java) 2023.07-2023.11
 - 멋쟁이사자처럼 (Back-End스쿨 3기) 2023.02-2023.07
 - 서남대학교(컴퓨터정보학과) 2014.03-2018.02
 ---
-### Currently working
+### 🧑‍💻 Currently working
 - Crechat
 - Health-supporter
 ---
-### Currently learning
+### ✏️ Currently learning
 - kotlin
 - coroutine
 - Message Queue (kafka, Redis)
