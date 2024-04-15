@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 ---
 ### 🧑‍💻 Currently working
 - Crechat
-- Health-supporter
+- [Barbellrobot](https://github.com/PARKPARKWOO/barbellrobot-backend)
 ---
 ### ✏️ Currently learning
 - kotlin
 - coroutine
 - Message Queue (kafka, Redis)
+- flutter
