@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-### Experience Overview 
-- Klleon Backend 23.11.06 ~ 
+### Experience Overview
+#### HectoData
+- Backend 24.08 ~
+#### Klleon
+- Backend 23.11 ~ 24.08
 
 ---
 ### 👨‍🏫 Education
