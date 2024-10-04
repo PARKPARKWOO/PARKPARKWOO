@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 ### Experience Overview
 #### HectoData
-- Backend 24.08 ~
+- MyData(Backend) 24.08 ~
 #### Klleon
 - Backend 23.11 ~ 24.08
 
@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 - Crechat
 - [Barbellrobot](https://github.com/PARKPARKWOO/barbellrobot-backend)
 ---
-### ✏️ Currently learning
-- kotlin
-- coroutine
-- Message Queue (kafka, Redis)
-- flutter
+### ✏️ I'm interested in
+- reactive programming
+- webflux
+- coroutine, virtual thread
+- functional programming
+- RAG
