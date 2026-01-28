@@ -17,9 +17,10 @@ Here are some ideas to get you started:
   
 ### Experience Overview
 #### HectoData
-- MyData(Backend) 24.08 ~
+- 쇼핑몰 통합솔루션 (SELLPICK) 25.07 ~
+- 금융마이데이터 연동 서비스 (FINPONG) 24.08 ~
 #### Klleon
-- Backend 23.11 ~ 24.08
+- 실시간 AI 디지털 휴먼 화상 채팅 서비스 23.11 ~ 24.08
 
 ---
 ### 👨‍🏫 Education
@@ -29,10 +30,5 @@ Here are some ideas to get you started:
 
 ---
 
-
-### ✏️ I'm interested in
-- reactive programming
-- webflux
-- coroutine, virtual thread
-- functional programming
-- RAG
+### Open Source Contributions
+- Spring gRPC: packageClasses 패키지 추출 로직(루프 버그) 이슈 등록 및 개선안 제안 → [PR #364](https://github.com/spring-projects/spring-grpc/pull/364)로 반영/머지 ([Issue #361](https://github.com/spring-projects/spring-grpc/issues/361))
